@@ -6,7 +6,7 @@ keywords: Noah, Hammarlund, machine learning, electronic medical records,electro
 ---
 
 Noah Hammarlund is a Senior Research Fellow in Biomedical Informatics and Medical Education at the University of Washington. His research interests include 
-the analysis the usefulness of electronic medical records data for secondary research.
+the analysis the usefulness of electronic medical records data for secondary research. Noah has a PhD in Public Affairs from Indiana University focusing on health economics and informatics.
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
@@ -36,7 +36,7 @@ the analysis the usefulness of electronic medical records data for secondary res
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
           <li><a href="https://github.com/nohammar">GitHub</a></li>
-          <li><a href="https://twitter.com/nehamm">Twitter (@dog_feelings)</a></li>
+          <li><a href="https://twitter.com/nehamm">Twitter (@nehamm)</a></li>
       </ul>
   </div>
 </div>
