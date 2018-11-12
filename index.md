@@ -5,8 +5,8 @@ description: Noah Hammarlund is a Senior Research Fellow - BIME - University of 
 keywords: Noah, Hammarlund, machine learning, electronic medical records,electronic health records mail, health economics, informatics, biomedical 
 ---
 
-Noah Hammarlund is a Senior Research Fellow in Biomedical Informatics and Medical Education at the University of Washington. His research interests include 
-the usefulness of electronic medical records data for secondary research. Noah has a PhD in Public Affairs from Indiana University where he focused on health economics and informatics.
+Noah Hammarlund is a Senior Fellow in Biomedical Informatics and Medical Education at the University of Washington. His research interests include 
+the evaluation of electronic medical records data for secondary research. Noah has a PhD in Public Affairs from Indiana University where he focused on health economics and informatics.
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
