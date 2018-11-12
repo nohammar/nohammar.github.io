@@ -35,7 +35,7 @@ the evaluation of electronic medical records data for secondary research. Noah h
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a></li>
           <li><a href="https://github.com/nohammar">GitHub</a></li>
           <li><a href="https://twitter.com/nehamm">Twitter (@nehamm)</a></li>
       </ul>
