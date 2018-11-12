@@ -20,7 +20,8 @@ the evaluation of electronic medical records data for secondary research. Noah h
     <div class="row-fluid">
         <div class="span5">
             Noah Hammarlund<br/>
-            Email: nehamm@gmail.com<br/>
+            Emails: nehamm@gmail.com<br/>
+		nohammar@uw.edu<br/>
         </div>
 
         <div class="span2">
